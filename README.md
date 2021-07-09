@@ -16,13 +16,18 @@ A repository containing materials for learning web development contributed by me
 
 ### Front-End
 
+- [Freecodecamp HTML5 CSS3 Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
+
 ### Back-End
+
+- [Freecodecamp: Python Django](https://www.youtube.com/watch?v=jBzwzrDvZ18)
 
 ## Intermediate
 
 ### Back-End
 
 - [Python FastAPI (video)](https://youtu.be/7t2alSnE2-I)
-- 
+
+
 ## Advanced
 
