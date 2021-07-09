@@ -6,9 +6,9 @@ A repository containing materials for learning web development contributed by me
     * [Front-End](#Front-End)
     * [Back-End](#Back-End)
     * [Database](#Database)
-  * [#Intermediate](#Intermediate)
+  * [Intermediate](#Intermediate)
     * [Back-End](#Back-End-1)
-  * [#Advanced](#Advanced)
+  * [Advanced](#Advanced)
 
 ----
 
