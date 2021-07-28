@@ -1,6 +1,8 @@
 # Web Development Learning Materials
 A repository containing materials for learning web development contributed by members of SPARC at SIUE
 
+Currently in Progress
+
 * Tiers
   * [Beginner](#Beginner)
     * [Front-End](#Front-End)
