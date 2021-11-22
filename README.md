@@ -18,8 +18,10 @@ Currently in Progress
 
 ### Front-End
 
-- [Freecodecamp HTML5 CSS3 Full Course](https://www.youtube.com/watch?v=mU6anWqZJcc)
-- [FreeCodeCamp Website](https://www.freecodecamp.org/learn)
+- [Video: FreeCodeCamp HTML5 Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [Website: FreeCodeCamp](https://www.freecodecamp.org/learn)
+- [Video: CSS Complete Course](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Video: JavaScript Programming - Full Course](https://www.youtube.com/watch?v=jS4aFq5-91M)
 
 ### Back-End
 
