@@ -28,13 +28,13 @@ Currently in Progress
 
 ### Back-End
 
-- [Freecodecamp: Python Django](https://www.youtube.com/watch?v=jBzwzrDvZ18)
+- [Video: Python Django (10.5hr)](https://www.youtube.com/watch?v=jBzwzrDvZ18)
 
 ## Intermediate
 
 ### Back-End
 
-- [Python FastAPI (video)](https://youtu.be/7t2alSnE2-I)
+- [Video: Python FastAPI (4hr)](https://youtu.be/7t2alSnE2-I)
 
 
 ## Advanced
