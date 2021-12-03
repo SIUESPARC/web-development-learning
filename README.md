@@ -27,12 +27,19 @@ Currently in Progress
 - [Website: Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - [Video: FreeCodeCamp HTML5 Full Course (2hr)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [Video: CSS Complete Course (6hr)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-  - Really dense video. I would skipping around to watch the sections about these topics:
+  - Really dense video. I would recommend skipping around to watch the sections about these topics:
     - The general concept of selectors and modifying properties.
     - The box model.
     - CSS grid and flexbox.
 - [Video: JavaScript Programming - Full Course (8hr)](https://www.youtube.com/watch?v=jS4aFq5-91M)
+  - Really beginner-friendly. You can probably the parts where he talks about syntax since it is the same as Java and C++.
+  - Points to focus on:
+    - The DOM and manipulating elements in the HTML document with JS.
+    - Variable types and using the console to debug.
+    - Most of the course is taught through projects. Try to work ahead and see if you can add additional features and experiment.
 - [Video: Bootstrap 5 Crash Course (1.5hr)](https://youtu.be/4sosXZsdy-s)
+  - This will be pretty important for creating the layout of the website. 
+  - Will also give us a good basis to build our CSS off of.
 
 ### Back-End
 
