@@ -21,11 +21,13 @@ Currently in Progress
 - [Website: FreeCodeCamp](https://www.freecodecamp.org/learn)
   - Tons of courses to learn HTML, CSS, JS, and React.
 - [Website: W3Schools](https://www.w3schools.com)
-  - Good place for simple demos for HTML, CSS, JS, and Bootstrap.
+  - Good place for simple demos for HTML, CSS properties, JS, and Bootstrap.
 - [Website: LeetCode](https://leetcode.com/problemset/all/)
   - Website focused on challenges and interview experience. This could be a good place to practice writing code in JavaScript.
 - [Website: Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+  - Place to look for information since the basis of the frontend will be in Bootstrap.
 - [Video: FreeCodeCamp HTML5 Full Course (2hr)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+  - Quick refresher as well as a friendly introduction to HTML.
 - [Video: CSS Complete Course (6hr)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
   - Really dense video. I would recommend skipping around to watch the sections about these topics:
     - The general concept of selectors and modifying properties.
