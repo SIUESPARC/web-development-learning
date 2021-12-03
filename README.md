@@ -19,6 +19,7 @@ Currently in Progress
 ### Front-End
 
 - [Website: FreeCodeCamp](https://www.freecodecamp.org/learn)
+  - Tons of courses to learn HTML, CSS, JS, and React.
 - [Website: W3Schools](https://www.w3schools.com)
 - [Website: LeetCode](https://leetcode.com/problemset/all/)
 - [Website: Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
