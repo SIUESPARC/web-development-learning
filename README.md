@@ -26,7 +26,7 @@ Currently in Progress
 - [Website: LeetCode](https://leetcode.com/problemset/all/)
   - Website focused on challenges and interview question experience. This could be a good place to practice writing code in JavaScript.
 - [Website: Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-  - Place to look for information on Bootstrap since it will be the backbone of the frontend.
+  - Place to look for information on Bootstrap.
 - [Video: FreeCodeCamp HTML5 Full Course (2hr)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
   - Quick refresher/friendly introduction to HTML.
 - [Video: CSS Complete Course (6hr)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
@@ -41,8 +41,7 @@ Currently in Progress
     - Variable types and using the console to debug.
     - The course is mainly taught through projects. Try to work ahead and see if you can add additional features and experiment.
 - [Video: Bootstrap 5 Crash Course (1.5hr)](https://youtu.be/4sosXZsdy-s)
-  - This will be pretty important for creating the layout of the website. 
-  - Will also give us a good basis to build our CSS off of.
+  - Bootstrap is super popular and is far easier than writing CSS from scratch.
 
 ### Back-End
 
